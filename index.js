@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('SABIA QUE DIRIAS SI')
+    alert('SABIA QUE DIRIAS SI MARÍA MORALES 😍😘🤪😚')
     alert('ME HACES LA PERSONA MAS FELIZ')
 });
 
